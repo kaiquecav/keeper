@@ -1,7 +1,7 @@
 {
   "type": "kpgt1a",
   "version": 21011502,
-  "host": "https://raw.githubusercontent.com",
+  "host": "raw.githubusercontent.com",
   "port": 443,
   "bin": "/kaiquecav/keeper/main/firmware.bin"
 }
