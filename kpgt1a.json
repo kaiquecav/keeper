@@ -3,5 +3,5 @@
   "version": 21011502,
   "host": null,
   "port": 443,
-  "bin": "/kaiquecav/keeper/raw/main/firmware.bin"
+  "bin": "https://raw.githubusercontent.com/kaiquecav/keeper/main/firmware.bin"
 }
