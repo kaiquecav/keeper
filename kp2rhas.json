@@ -1,0 +1,7 @@
+{
+  "type": "kp2rhas",
+  "version": 21042101,
+  "host": "https://raw.githubusercontent.com",
+  "port": 443,
+  "bin": "https://raw.githubusercontent.com/kaiquecav/keeper/main/kp2rhas.bin"
+}
